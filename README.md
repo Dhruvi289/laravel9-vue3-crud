@@ -18,7 +18,7 @@
 ### Steps for Vue 3 Installation
 
 #### Execute the command : "vue init webpack application_name" 
-#### (Note: If you do not have the vue init globally installed then use this command: "npm - -g @vue/cli-init")
+#### (Note: If you do not have the vue init globally installed then use this command: "npm i -g @vue/cli-init")
 
 #### After that install axois and vue-router using "npm install axios and vue-axios"
 #### (Note: Vue-router will be installed in webpack init command)
